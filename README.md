@@ -9,4 +9,4 @@ The "Music Generation using LSTM" project is an exploration of the creative poss
 - Artistic Expression: Integrate generated music into multimedia projects, art installations, or live performances.
 
 ## Data Description
-[This](https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi) is the dataset I have used for making this music generator using LSTM. I have used MIDI files of music compositions by Albeniz and Chopin in this project. The midi files contain piano chords or piano notes. We analyse these MIDI files by extracting their notes, printing the music sheets, and converting them into .wav and .mp3 files.
+[This](https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi) is the dataset I have used for making this music generator using LSTM. I have used MIDI files of music compositions by Albeniz and Chopin in this project. The midi files contain piano chords or piano notes. We analyze these MIDI files by extracting their notes, printing the music sheets, and converting them into .wav and .mp3 files.
